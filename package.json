@@ -1,0 +1,12 @@
+{
+  "name": "creditcards-numb-valid",
+  "version": "1.0.1",
+  "description": "Credit card numbers validator. Luhn algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["credit card","numbers", "validator"],
+  "author": "Ernesto Cisnero",
+  "license": "ISC"
+}
